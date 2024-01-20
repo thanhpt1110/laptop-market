@@ -34,12 +34,12 @@ Just download file LATO.apk with this [following link]( https://drive.google.com
 
 <table>
   <tr>
-    <td align="center"><img src="/Demo%20UI/Home.jpg" alt="Home" width="70%"></td>
-    <td align="center"><img src="/Demo%20UI/Search.jpg" alt="Search" width="70%"></td>
+    <td align="center"><img src="/Demo%20UI/Home.jpg" alt="Home" width="100%"></td>
+    <td align="center"><img src="/Demo%20UI/Search.jpg" alt="Search" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><img src="/Demo%20UI/Post.jpg" alt="Post" width="70%"></td>
-    <td align="center"><img src="/Demo%20UI/Account.jpg" alt="Account" width="70%"></td>
+    <td align="center"><img src="/Demo%20UI/Post.jpg" alt="Post" width="100%"></td>
+    <td align="center"><img src="/Demo%20UI/Account.jpg" alt="Account" width="100%"></td>
   </tr>
 </table>
 
