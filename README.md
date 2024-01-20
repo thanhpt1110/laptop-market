@@ -1,7 +1,7 @@
 # <img src="https://github.com/thtuanlegithub/laptop-market/blob/master/app/src/main/res/drawable/logo.png" alt="Your Image" width="auto" height="35"> LATO - Laptop Market  
 An android application for selling and buying laptops, implemented based on MVP pattern and processed real-time data for multi devices.			
 
-# Business
+## Features
 
 - Search laptop by your filter.
 - Support chatting/calling with seller.
@@ -15,7 +15,10 @@ An android application for selling and buying laptops, implemented based on MVP 
 - Send report/feedback to developer team.
 - And other features.
 
-# Requirement
+Language: Vietnamese.
+
+## Technology Stack
+
 - Runtime environment:
     - Operation system Android 8.0+.
 - Developments environment:
@@ -23,11 +26,18 @@ An android application for selling and buying laptops, implemented based on MVP 
     - Firestore Database.
     - Algolia.
 
-# Installation
+## Installation
 
 Just download file LATO.apk with this [following link]( https://drive.google.com/file/d/1ekCyE0asvjI3wN6pnY_Sc8wWDAKK_msc/view?usp=sharing) then install on your device and enjoy it.
 
-# Authors
+## User Interface
+
+![Home](/Demo%20UI/Home.jpg)
+![Search](/Demo%20UI/Search.jpg)
+![Post](/Demo%20UI/Post.jpg)
+![Account](/Demo%20UI/Account.jpg)
+
+## Authors
 
 [Nguyễn Phúc Bình](https://github.com/leesoonduck3009)
 
